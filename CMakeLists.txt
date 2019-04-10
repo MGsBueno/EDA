@@ -3,4 +3,4 @@ project(EDA C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(EDA main.c pilha-lista.h lista-encadeada.h)
+add_executable(EDA main.c pilha-lista.h lista-encadeada.h filas-listas.h)
