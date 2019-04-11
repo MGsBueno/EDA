@@ -1,9 +1,9 @@
-#include "pilha-lista.h"
+﻿#include "pilha-lista.h"
 #include <stdio.h>
 #include "filas-listas.h"
 /*
  *  ------ Início das funções da pilha ------  *
-*/
+ */
 TPilha *inicializa() {
     TPilha *pilha = (TPilha *)malloc(sizeof(TPilha));
     pilha->topo = NULL;

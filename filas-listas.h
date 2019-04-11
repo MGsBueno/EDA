@@ -1,4 +1,3 @@
-
 typedef struct fila {
     TLista *inicio;
     TLista *fim;
